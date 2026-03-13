@@ -1,3 +1,4 @@
+
 #  About Me:
 Mi a software developer weh a grow steady.<br>Mi done cover HTML, CSS, JavaScript (ES6), TypeScript, Tailwind CSS, Git, an async JavaScript.<br>One project at a time.
 
