@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm a frontend developer 👋
 
-🔭 I'm currently working on **React · React Router · Redux**
+🔭 I'm currently working on **Node.js**
 
 ---
 
