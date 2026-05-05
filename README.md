@@ -1,6 +1,6 @@
 ## Hi there, I'm a frontend developer 👋
 
-🔭 I am currently working on **Node.js**
+🔭 I'm currently working on **Node.js**
 ---
 
 ### 💻 Languages
