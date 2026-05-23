@@ -1,6 +1,7 @@
-## Hi there, I'm a frontend developer 👋
+# 👋 Hi, I'm Ajang Korenilo!
 
-🔭 I'm currently working on **Node.js**
+## About Me
+- I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
 ---
 
 ### 💻 Languages
@@ -21,3 +22,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+## 🌱 Currently Learning
+- Backend basics with Node.js
+- Building React Projects 
