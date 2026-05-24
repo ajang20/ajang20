@@ -61,8 +61,7 @@ I'm a junior developer based in **Kigali, Rwanda**, passionate about building cl
 
 <div align="center">
 
-![Ajang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajang20&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajang20&layout=compact&theme=github_dark&hide_border=true)
+![Ajang's GitHub Stats](https://streak-stats.demolab.com?user=ajang20&theme=github-dark&hide_border=true)
 
 </div>
 
