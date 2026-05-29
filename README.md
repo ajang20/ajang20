@@ -52,7 +52,6 @@ I'm a junior developer based in **Kigali, Rwanda**, passionate about building cl
 | Topic | Focus |
 |---|---|
 | 🟢 Node.js | REST APIs, Express, server-side fundamentals |
-| ⚛️ Advanced React | Custom hooks, performance, design patterns |
 | 🗄️ Databases | SQL basics, connecting backends to frontends |
 
 ---
