@@ -18,7 +18,6 @@ I'm a junior developer based in **Kigali, Rwanda**, passionate about building cl
 
 - 🔭 Currently building projects with **React + TypeScript**
 - 🌱 Expanding into **backend development with Node.js**
-- 💡 Interested in UI/UX, clean code, and scalable architecture
 
 ---
 
