@@ -2,8 +2,6 @@
 
 # 👋 Hey there, I'm Ajang Korenilo
 
-**Junior Frontend Developer · React Enthusiast · Designed to be a Poly-Math**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajang-korenilo-683a3937b)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajangkorenilo8@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
