@@ -27,7 +27,6 @@ I'm a junior developer based in **Kigali, Rwanda**, passionate about building cl
 
 | Technology | What I'm Focusing On |
 |---|---|
-| 🟢 Node.js | REST APIs, Express, server-side fundamentals |
 | 🗄️ Databases | SQL basics, connecting backends to frontends |
 | 🐱 NestJS | Modular architecture, decorators, building scalable APIs |
 | 🐳 Docker | Containerization, images, running dev environments |
