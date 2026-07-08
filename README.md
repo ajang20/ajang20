@@ -1,7 +1,5 @@
 <div align="center">
-
 # 👋 Hey there, I'm Ajang Korenilo
-
 </div>
 
 ---
