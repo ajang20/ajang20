@@ -58,7 +58,7 @@ I'm a junior developer based in **Kigali, Rwanda**, passionate about building cl
 <div align="center">
   *Thanks for stopping by — feel free to reach out or connect!* 🙌 
 </div>
----
+.
 
 <div align="center">
 
