@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## About Me
 
 I'm a junior developer based in **Kigali, Rwanda**, passionate about building clean, responsive web applications with React. I'm constantly exploring new front-end technologies, sharpening my fundamentals, and working toward becoming a well-rounded full-stack developer.
