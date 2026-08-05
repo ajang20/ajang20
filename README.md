@@ -57,7 +57,7 @@ I'm a junior developer based in **Kigali, Rwanda**, passionate about building cl
 <div align="center">
   *Thanks for stopping by — feel free to reach out or connect!* 🙌 
 </div>
-
+---
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajang-korenilo-683a3937b)
