@@ -53,7 +53,7 @@ I'm a junior developer based in **Kigali, Rwanda**, passionate about building cl
 >
 > I'm currently building and polishing projects to pin here. In the meantime, feel free to browse my repositories.
 
----
+
 <div align="center">
   *Thanks for stopping by — feel free to reach out or connect!* 🙌 
 </div>
