@@ -45,7 +45,7 @@ I'm a junior developer based in **Kigali, Rwanda**, passionate about building cl
 
 </div> 
 
----
+
 
 ## 🚀 Featured Projects
 
