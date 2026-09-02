@@ -43,7 +43,7 @@ I'm a junior developer based in **Kigali, Rwanda**, passionate about building cl
 
 ![Streak](https://streak-stats.demolab.com?user=ajang20&theme=github-dark&hide_border=true)
 
-</div>
+</div> 
 
 ---
 
