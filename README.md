@@ -16,19 +16,17 @@ I'm a junior developer based in **Kigali, Rwanda**, passionate about building cl
 |---|---|
 | 💻 Languages | HTML5 · CSS3 · JavaScript · TypeScript · Python |
 | 📚 Libraries & Frameworks | React · React Router · Redux · Tailwind CSS |
-| 🖥️ Backend | Node.js · Express · MongoDB |
+| 🖥️ Backend | Node.js · Express · NestJS |
+| 🗄️ Databases | MongoDB · SQL · PostgreSQL |
+| 🐳 DevOps | Docker |
+| 🧪 Testing | Jest, unit & integration testing |
 | 🛠️ Tools & Platforms | VS Code · Git · GitHub · Figma · Netlify |
 
 ---
 
 ## 🌱 Currently Learning
 
-| Technology | What I'm Focusing On |
-|---|---|
-| 🗄️ Databases | SQL basics, connecting backends to frontends |
-| 🐱 NestJS | Modular architecture, decorators, building scalable APIs |
-| 🐳 Docker | Containerization, images, running dev environments |
-| 🧪 Testing | Unit testing, integration testing, Jest & test-driven thinking |
+> ⚙️ *Updating this soon with what I'm exploring next!*
 
 ---
 
