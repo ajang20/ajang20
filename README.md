@@ -6,7 +6,7 @@
 
 ## About Me : 
 
-I'm a fullstack developer based in **Kigali, Rwanda**, passionate about building clean, responsive web applications with React. I'm constantly exploring new front-end technologies, sharpening my fundamentals, and working toward becoming a well-rounded full-stack developer.
+I'm a fullstack developer based in **Kigali, Rwanda**, passionate about building clean, responsive web applications with React and robust APIs with Node.js and NestJS. I'm constantly sharpening my fundamentals across the stack and exploring new technologies as I grow.
 
 
 ---
