@@ -21,7 +21,7 @@ I'm a fullstack developer based in **Kigali, Rwanda**, passionate about building
 | 🗄️ Databases | MongoDB · SQL · PostgreSQL |
 | 🐳 DevOps | Docker |
 | 🧪 Testing | Jest, unit & integration testing |
-| 🛠️ Tools & Platforms | VS Code · Git · GitHub · Figma · Netlify |
+| 🛠️ Tools & Platforms | VS Code · Git · GitHub · Figma · Netlify · Vercel |
 
 ---
 
