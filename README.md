@@ -8,7 +8,6 @@
 
 I'm a fullstack developer based in **Kigali, Rwanda**, passionate about building clean, responsive web applications with React and robust APIs with Node.js and NestJS. I'm constantly sharpening my fundamentals across the stack and exploring new technologies as I grow.
 
-
 ---
 
 ## 🧰 Tech Stack
